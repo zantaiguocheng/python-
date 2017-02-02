@@ -16,4 +16,3 @@ for i in range(k):
             x[i][j]=x[i-1][j]+x[i-1][j-1]
         
 print x
-end
